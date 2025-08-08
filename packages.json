@@ -1,0 +1,24 @@
+{
+  "name": "Artem Novichkov Package Collection",
+  "overview": "A curated collection of Swift packages by Artem Novichkov.",
+  "keywords": ["swift", "swiftui", "xcode", "ios"],
+  "packages": [
+    {
+      "url": "https://github.com/artemnovichkov/TranscriptDebugMenu.git",
+      "summary": "A SwiftUI library that provides a debug menu for viewing and copying LanguageModelSession transcripts.",
+      "keywords": ["swift", "swiftui", "foundation-models"],
+      "readmeURL": "https://github.com/artemnovichkov/TranscriptDebugMenu/blob/main/README.md"
+    },
+    {
+      "url": "https://github.com/artemnovichkov/figma-preview.git",
+      "summary": "Add Figma design to your Xcode Preview.",
+      "keywords": ["swift", "ios", "xcode", "figma", "swiftui"],
+      "readmeURL": "https://github.com/artemnovichkov/figma-preview/blob/main/README.md"
+    }
+  ],
+  "author": {
+    "name": "Artem Novichkov"
+  }
+}
+
+
